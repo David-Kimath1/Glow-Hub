@@ -83,7 +83,7 @@ Planned stack for Glow-Hub:
 
 ## Setup Instructions
 
-### 1. Clone Repository
+### Clone Repository
 
 
 git clone https://github.com/David-Kimath1/Glow-Hub.git
@@ -96,29 +96,31 @@ npm install
 
 node server.js
 
-Development Roadmap
-Phase 1
+## Development Roadmap
+
+### Phase 1
+
 Project structure setup
 
 Basic frontend UI
 
 Backend API foundation
 
-Phase 2
+### Phase 2
 Authentication system
 
 Product and order APIs
 
 Admin dashboard functionality
 
-Phase 3
+### Phase 3
 AI chatbot integration
 
 Recommendation engine
 
 Payment system integration
 
-Phase 4
+### Phase 4
 Deployment
 
 Scaling and optimization
