@@ -87,10 +87,13 @@ Planned stack for Glow-Hub:
 
 
 git clone https://github.com/David-Kimath1/Glow-Hub.git
+
 cd Glow-Hub
 
 cd backend
+
 npm install
+
 node server.js
 
 Development Roadmap
